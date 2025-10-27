@@ -1,0 +1,22 @@
+# Kiểm tra mắt
+
+**Thông tin bệnh nhân:**
+
+* **Họ và tên:** Võ Đình Loa
+* **Ngày sinh:** 07/09/1990
+* **Đang điều trị kiểm cận thị:** Không
+* **Kính gọng KSTC:** Ortho K
+* **Ánh sáng đỏ:** Không
+* **Mắt trầy xước (nếu có):** Có
+* **Độ thị lực:** Đạt
+* **Thị lực lân cận (áp dụng):** Đạt
+* **Đánh giá thị lực nhân xa:** Đạt
+* **Thị lực gần (áp dụng):** Đạt
+* **Kết luận thị lực:** Đạt
+
+**Kiểm tra Sắc giác:**
+
+* **Kết luận sơ đồ tai thời điểm khám:** Không đạt
+* **Kết luận khám:** Cần đi khám chuyển khoa mắt (Bĩ và)
+* **Dành phụ huynh:** Tặng 01 lượt khám mắt - tư vấn Kiểm soát cận thị (miễn phí)
+* **Địa điểm:** Trung tâm Mắt Vinameal, Bệnh viện ĐKQT Timeine City,
